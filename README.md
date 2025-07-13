@@ -1,5 +1,5 @@
 
-# 🧠 Customer Segmentation using K-Means Clustering
+#  Customer Segmentation using K-Means Clustering
 
 This project performs customer segmentation on the **Online Shoppers Intention** dataset using **K-Means Clustering**. The goal is to identify distinct customer groups based on session behavior, such as time spent, bounce rate, and page interaction.
 
