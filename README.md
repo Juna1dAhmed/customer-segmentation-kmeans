@@ -10,9 +10,8 @@ This project performs customer segmentation on the **Online Shoppers Intention**
 ```
 customer-segmentation-kmeans/
 ├── customer_segmentation.ipynb       # Main notebook with all code and visualizations
-├── online_shoppers_intention.csv     # Dataset (optional to include in repo)
+├── online_shoppers_intention.csv     # Dataset 
 ├── segmented_customers.csv           # Output data with cluster labels
-├── kmeans_model.pkl                  # Saved KMeans model (optional)
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # This file
 ```
@@ -50,37 +49,6 @@ customer-segmentation-kmeans/
 
 ---
 
-## 💾 Files Generated
-
-- `segmented_customers.csv` – Dataset with cluster labels
-- `kmeans_model.pkl` – Saved clustering model (optional)
-
----
-
-## 🚀 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/Juna1dAhmed/customer-segmentation-kmeans.git
-   cd customer-segmentation-kmeans
-   ```
-
-2. (Optional) Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # or venv\Scripts\activate on Windows
-   ```
-
-3. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the notebook:
-   - Open `customer_segmentation.ipynb` in **Jupyter** or **Google Colab**
-   - Follow the steps in the notebook to upload the dataset and run the code
-
----
 
 ## 📦 Requirements
 
