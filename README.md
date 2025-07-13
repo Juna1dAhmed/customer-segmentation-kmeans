@@ -11,7 +11,6 @@ This project performs customer segmentation on the **Online Shoppers Intention**
 customer-segmentation-kmeans/
 ├── customer_segmentation.ipynb       # Main notebook with all code and visualizations
 ├── online_shoppers_intention.csv     # Dataset 
-├── segmented_customers.csv           # Output data with cluster labels
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # This file
 ```
